@@ -27,5 +27,8 @@
 **Recent Changelog (v1.0):** [Hyperion Kernel v1.0 - The Silent Peak](https://github.com/daizeuz-dred/Hyperion-Kernel-V1-Releases#hyperion-kernel-v10--the-silent-peak)
 
 **Maintainer:** D Ξ Ξ Z N U T Z
+
 **Target Device:** Realme 8i / Narzo 50 (spaced)
+
 **Credits:** @HELLINFIX for base sources.
+
