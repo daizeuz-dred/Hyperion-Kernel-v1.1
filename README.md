@@ -5,7 +5,7 @@
 
 ### 🛡️ KernelSU & Root Enhancements
 * **RKSU v3 Integration:** Updated to the latest RKSU for improved root management and stealth.
-* **Multi-Manager Support:** Native compatibility for RKSU, MKSU, Official KernelSU, KowSU, KSUN, WKSU, and WKSU.
+* **Multi-Manager Support:** Native compatibility for RKSU, MKSU, Official KernelSU, KowSU, KSUN, and WKSU.
 
 ### 🚀 Performance & UI Smoothness
 * **Multi-Gen LRU (MGLRU) Tuning:** Set `min_ttl` to 1000ms to keep active apps in memory longer, reducing app-reloading `jank.`
